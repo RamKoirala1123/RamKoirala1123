@@ -13,5 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramkoirala1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkoirala1123" height="30" width="40" /></a>
+<a href="https://fb.com/ramkoirala1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramkoirala1123" height="30" width="40" /></a>
+<a href="https://instagram.com/ram_koiralaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ram_koiralaa" height="30" width="40" /></a>
 </p>
 
