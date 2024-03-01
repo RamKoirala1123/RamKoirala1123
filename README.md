@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Django**
 
-- 👨‍💻 All of my projects are available at <a href="www.ramkoirala.com.np" target="_blank">[www.ramkoirala.com.np]</a>
+- 👨‍💻 All of my projects are available at <a href="www.ramkoirala.com.np" target="_blank">[www.ramkoirala.com.np](www.ramkoirala.com.np))</a>
 
 - 📫 How to reach me **ramkoirala1123@gmail.com**
 
