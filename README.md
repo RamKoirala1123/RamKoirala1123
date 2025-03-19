@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ramkoirala1123@gmail.com**
 
-- 📄 Know about my experiences [www.ramkoirala.com.np](www.ramkoirala.com.np)
+- 📄 Know about my experiences [ramkoirala.com.np](https://ramkoirala.com.np)
 
 
 <h3 align="left">Connect with me:</h3>
